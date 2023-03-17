@@ -18,7 +18,7 @@ GIT
 
 ** First place in the AI hackathon **  [link to diploma](https://drive.google.com/file/d/1H1JAIq0U8DQSqbvfeaMR5Bu6x4KTzWye/view?usp=share_link)
 
-Our team created a web service for translating natural language into SQL
+Our team created the web service for translating natural language into SQL
 
 **Tasks, responsibilities, achievements**:
 
