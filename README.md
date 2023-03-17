@@ -20,7 +20,7 @@ GIT
 
 [link to diploma](https://drive.google.com/file/d/1H1JAIq0U8DQSqbvfeaMR5Bu6x4KTzWye/view?usp=share_link)
 
-[GitHub] (https://github.com/mathewpolonsky/NLSQL)
+[GitHub](https://github.com/mathewpolonsky/NLSQL)
 
 Our team created the web service for translating natural language into SQL
 
