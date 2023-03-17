@@ -1,6 +1,4 @@
-# digital-cv
-
-# Eldmir Iskhakov
+# Elmir Iskhakov
 
 **Software engineer**
 
@@ -15,3 +13,5 @@ Python, Django, NodeJS, Express Ruby, Ruby on Rails, SQL, MongoDB
 
 **Development & Operations**
 Docker, GIT
+
+
