@@ -32,7 +32,7 @@ Our team created the web service for translating natural language into SQL
 
 **News-app (pet project)**
 
-[GitHub] (https://github.com/elmiringos/news-app)
+[GitHub](https://github.com/elmiringos/news-app)
 
 Simple Django app for creating acrticles and commenting them
 
