@@ -9,7 +9,7 @@
 HTML, CSS, JavaScript, Bootstrap, JQuery
 
 **Server-Side**
-Python, Django, NodeJS, Express Ruby, Ruby on Rails, SQL, MongoDB
+Python, Django, NodeJS, Express, Ruby, Ruby on Rails, SQL, MongoDB
 
 **Development & Operations**
 GIT
