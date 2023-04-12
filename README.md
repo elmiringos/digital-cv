@@ -18,11 +18,11 @@ GIT
 
 **1) Internal service for the GGSEL moderation department.**
 
-Stack - NodeJS, Express, MongoDB, PUG, Bootstrap, Docker, Ansible.
+**Stack** - NodeJS, Express, MongoDB, PUG, Bootstrap, Docker, Ansible.
 
 The service helps the moderation department to track the statistics of reviews in product categories, individual products. View these statistics for a certain period, sort the data.
 
-Completed tasks:
+**Completed tasks**:
  - Getting data from the API using the axios library.
  - Creating product pages and categories with pagination through the pug template engine. Creating a telegram bot to track negative reviews.
  - Search and sort data in mongodb.
