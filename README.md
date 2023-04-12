@@ -16,7 +16,18 @@ GIT
 
 ## 💻 Projects and Achivements
 
-**First place in the AI hackathon**  
+**1) Internal service for the GGSEL moderation department.**
+
+Stack - NodeJS, Express, MongoDB, PUG, Bootstrap, Docker, Ansible.
+
+The service helps the moderation department to track the statistics of reviews in product categories, individual products. View these statistics for a certain period, sort the data.
+
+Completed tasks:
+ - Getting data from the API using the axios library.
+ - Creating product pages and categories with pagination through the pug template engine. Creating a telegram bot to track negative reviews.
+ - Search and sort data in mongodb.
+
+**2) First place in the AI hackathon**  
 
 [link to diploma](https://drive.google.com/file/d/1H1JAIq0U8DQSqbvfeaMR5Bu6x4KTzWye/view?usp=share_link)
 
@@ -30,7 +41,7 @@ Our team created the web service for translating natural language into SQL
 - Deployed ML model using Django
 - Developed telegram-bot with Python for interaction with ML model
 
-**News-app (pet project)**
+**3) News-app (pet project)**
 
 [GitHub](https://github.com/elmiringos/news-app)
 
